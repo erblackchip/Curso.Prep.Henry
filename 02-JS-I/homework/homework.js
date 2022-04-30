@@ -102,7 +102,7 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código: 
-  var z = x % Y; 
+  var z = x % y; 
   return z
   
 }
@@ -248,23 +248,23 @@ function esVocal(letra){
   if (letra.length === 1) {
 
     if (letra === 'a') { 
-         return 'es una vocal' }
+         return 'Es una vocal' }
     if (letra === 'e') {
-         return 'es una vocal' }
+         return 'Es una vocal' }
     if (letra === 'i') {
-         return 'es una vocal' }
+         return 'Es una vocal' }
     if (letra === 'o') {
-         return 'es una vocal' }
+         return 'Es una vocal' }
     if (letra === 'u') {
-         return 'es una vocal' }
+         return 'Es una vocal' }
        
        
 
-    return 'Dato Incorrecto' 
+    return 'Dato incorrecto' 
 
 } 
 
-  return 'Dato Incorrecto' 
+  return 'Dato incorrecto' 
 
 }
 
