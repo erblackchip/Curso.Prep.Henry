@@ -248,15 +248,15 @@ function esVocal(letra){
   if (letra.length === 1) {
 
     if (letra === 'a') { 
-         return 'Es una vocal' }
+         return 'Es vocal' }
     if (letra === 'e') {
-         return 'Es una vocal' }
+         return 'Es vocal' }
     if (letra === 'i') {
-         return 'Es una vocal' }
+         return 'Es vocal' }
     if (letra === 'o') {
-         return 'Es una vocal' }
+         return 'Es vocal' }
     if (letra === 'u') {
-         return 'Es una vocal' }
+         return 'Es vocal' }
        
        
 
